@@ -17,3 +17,7 @@ streamlit run (your python file)
 
 and it automatically open your browser
 There you go you can see beauty webpage without html,css,javascript 
+
+
+you can see documentation at https://docs.streamlit.io/library/get-started there is a lot of things you can try ma friend
+
